@@ -1,0 +1,131 @@
+html, body{
+  padding: 0;
+  margin: 0;
+}
+body{
+
+  text-align: center;
+  color: #40514E;
+  font-weight: bold;
+}
+h1{
+  color:#66BFBF;
+  font-family: 'Dancing Script', cursive;
+  font-size: 6rem;
+  position: relative;
+  margin-top: 150px;
+  margin-bottom: 1px;
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: normal;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+hr
+{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+
+}
+.top-container{
+  width: 100%;
+  background-color: #EAF6F6;
+  display: inline-block;
+  }
+
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+}
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 90px;
+}
+.p2{
+  margin-top: 50px;
+  width: 25%;
+}
+.p3{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.p4{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.pp{
+  width: 50%;
+  line-height: 2;
+  margin: auto;
+}
+.contact-me {
+  width: 70%;
+  margin: auto;
+  line-height: 2;
+}
+.footer-link{
+  color: #11999E;
+}
+.skill-row {
+  width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.btn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+
+  font-size: 20px;
+  background: #66BFBF;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn a{
+  color: #EAF6F6;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #2fde9e;
+  text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  position:inherit;
+  height: 150px;
+  margin: 50px auto auto auto;
+}
+.footer-link {
+  margin: 30px;
+  padding-top: 30px;
+}
+
+.bottomdiv {
+  margin: 30px auto 30px auto;
+  width: 100%;
+  position: absolute;
+}
+.footerp {
+  color: #EAF6F6;
+  position: absolute;
+  margin: 80px auto auto auto;
+  width: 100%;
+  font-size: 12px;
+}
